@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RenkSoyle.iml" filepath="$PROJECT_DIR$/RenkSoyle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShowLearn.iml" filepath="$PROJECT_DIR$/ShowLearn.iml" group="ShowLearn" />
+      <module fileurl="file://$PROJECT_DIR$/app/ShowLearn-app.iml" filepath="$PROJECT_DIR$/app/ShowLearn-app.iml" group="ShowLearn/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

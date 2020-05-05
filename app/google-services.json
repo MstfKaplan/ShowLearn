@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "473458661627",
+    "firebase_url": "https://show-learn.firebaseio.com",
+    "project_id": "show-learn",
+    "storage_bucket": "show-learn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473458661627:android:4341aa53518585d870f85e",
+        "android_client_info": {
+          "package_name": "com.showlearn.camera.color.teller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473458661627-92slj5tdro85bph6890un2u6f9bsbhb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc2IV-2wlrywEseY-FPX9F_rCxuOeRe9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473458661627-92slj5tdro85bph6890un2u6f9bsbhb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
